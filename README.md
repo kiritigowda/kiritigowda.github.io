@@ -1,3 +1,3 @@
 # Kiriti's personal website
 
-### [www.kiritigowda.com](https://www.kiritigowda.com)
+### [www.kiritigowda.com](http://www.kiritigowda.com)
